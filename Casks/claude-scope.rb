@@ -1,6 +1,6 @@
 cask "claude-scope" do
-  version "0.4.2"
-  sha256 "80908f5d427bcbafd9ad3feb7c607b39041976cbcfc1b079788145de0cbe373d"
+  version "0.4.3"
+  sha256 "15b6c01fd787f9cac404ff1155e4cd318d784f5af143a6b0496118c99e5f844d"
 
   url "https://github.com/Kevin-Wei-sudo/claude-scope/releases/download/v#{version}/ClaudeScope.dmg"
   name "ClaudeScope"
